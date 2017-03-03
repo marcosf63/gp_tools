@@ -1,2 +1,2 @@
 #gp_tools
-Uma ferramemta para gopro
+Uma ferramenta para gopro
